@@ -1,2 +1,4 @@
-# ytube_news
-School Project
+ytube_news
+==========
+
+A Symfony project
